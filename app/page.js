@@ -22,7 +22,7 @@ export default function Home() {
             The best URL Shortner
           </p>
           <p className=" text-center lg:w-[40%] md:w-[60%]  sm:w-[70%]">
-          We are the world's most straightforward URL shortener. Unlike many other services that track users or require account registration, our platform prioritizes simplicity and privacy. We understand your needs, which is why we&apos;ve designed a hassle-free URL shortener that respects your privacy while delivering a seamless experience.
+          We are the world&apos;s most straightforward URL shortener. Unlike many other services that track users or require account registration, our platform prioritizes simplicity and privacy. We understand your needs, which is why we&apos;ve designed a hassle-free URL shortener that respects your privacy while delivering a seamless experience.
           </p>
           <div className='flex gap-3 justify-start'>
           <Link href="/shorten"><button className='bg-purple-500 rounded-lg shadow-lg p-3 py-1 font-bold text-white'>Try Now</button></Link>
